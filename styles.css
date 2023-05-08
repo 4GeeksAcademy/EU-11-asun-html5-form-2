@@ -1,0 +1,26 @@
+
+label.add-any-notes {
+    
+    font-size: small;
+    font-style: normal;
+    color: darkgray;
+}
+
+
+#inlineRadio1.form-check-input {
+    transform: scale(0.7);
+
+}
+
+
+span.input-group-text.text-muted.pr-1 {
+ 
+    width: 10px;
+    text-align:center;
+    display: inline-table
+}
+
+div.dollar-amount {
+    display: -webkit-inline-box;
+}
+
